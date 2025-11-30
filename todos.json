@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "meeting at 11",
+    "description": "Computer sicence fundamental",
+    "done": false
+  },
+  {
+    "id": 2,
+    "title": "Complete Python Assignment",
+    "description": "Finish the console-based To-Do List project",
+    "done": false
+  },
+  {
+    "id": 3,
+    "title": "Study for Mathematics Test",
+    "description": "Revise algebra, trigonometry, and formulas",
+    "done": false
+  },
+  {
+    "id": 4,
+    "title": "Go Grocery Shopping",
+    "description": "Buy milk, bread, fruits, and vegetables",
+    "done": false
+  },
+  {
+    "id": 5,
+    "title": "Clean My Study Table",
+    "description": "Organize books, laptop, and notes",
+    "done": false
+  },
+  {
+    "id": 6,
+    "title": "Prepare GitHub Repository",
+    "description": "Add README, commit code, and push to GitHub",
+    "done": false
+  },
+  {
+    "id": 7,
+    "title": "Do 30 Minutes of Exercise",
+    "description": "Stretching and light cardio",
+    "done": false
+  }
+]
