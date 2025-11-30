@@ -1,3 +1,18 @@
+Name: Sansar Kumar
+
+Roll no.: 2501350055
+
+Programme: B. Tech CSE (Full Stack Development) 
+
+Section: B 
+
+Course: Computer Science Fundamentals & Career Pathways
+
+Assignment - 04: Tools for Programming, Learning, and Collaboration
+
+Assignment Title: Build & Document a Mini Project Using GitHub and VS Code
+---
+
 # 📝 To-Do List Application
 
 A simple and efficient To-Do List application built using Python.  
